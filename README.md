@@ -66,4 +66,5 @@ testApi();
 ```
 
 ## License
-MIT
+License: Harshit Tiwari
+
