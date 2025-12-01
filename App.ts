@@ -1,3 +1,6 @@
+// Just for testing API connectivity
+
+
 async function testApi() {
     const url = 'https://api.coindcx.com';
     console.log(`Testing API: ${url}`);
