@@ -46,7 +46,7 @@ Or if installed globally:
 ```bash
 api-test App.ts
 ```
-
+https://x.com/i/status/1995510162904461478
 ## Example `App.ts`
 ```typescript
 async function testApi() {
