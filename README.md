@@ -15,7 +15,7 @@ A lightweight C++ CLI tool to execute TypeScript/JavaScript API tests directly f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/api-test.git
+git clone https://github.com/HarshitTiwari-20/api-test.git
 cd api-test
 ```
 
@@ -52,7 +52,7 @@ api-test App.ts
 async function testApi() {
     const url = 'https://jsonplaceholder.typicode.com/todos/1';
     console.log(`Testing API: ${url}`);
-    
+
     try {
         const response = await fetch(url);
         if (!response.ok) throw new Error(`Status: ${response.status}`);
