@@ -20,7 +20,7 @@ int main(int argc, char* argv[]) {
     }
 
     // Construct the command to run the file using npx ts-node
-    
+
     std::string command = "npx tsx " + filename;
 
     std::cout << "Executing: " << command << std::endl;
@@ -38,3 +38,5 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+
